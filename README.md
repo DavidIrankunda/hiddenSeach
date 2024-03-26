@@ -1,3 +1,3 @@
 # hiddenSeach
 
-[click here for live sever](https://davidirankunda.github.io/hiddenSeach/)
+[Click Here For Live Server](https://davidirankunda.github.io/hiddenSeach/)
